@@ -1,1 +1,1 @@
-worker: bash D3vilbot
+worker: bash dark_cobra
